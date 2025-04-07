@@ -1,0 +1,11 @@
+- [Wiki OuvidorSUS Ministério da Saúde](https://wiki.saude.gov.br/ouvidor/index.php/P%C3%A1gina_principal):
+  - Configurações e características do sistema
+  - Adesão
+  - Perfis de acesso
+  - Manuais
+    - [Manual de Tipificação](https://drive.google.com/file/d/1IEr4_SbD-U5ohxbvkcgezebeGtS3Tg5c/view)
+    - [Vídeos capacitação](https://drive.google.com/drive/folders/1Deu3ZTiIahiUAAsbrqIILNEpt4fong89)
+   
+- [Cursos para profissionais de Ouvidoria](https://www.gov.br/saude/pt-br/canais-de-atendimento/ouvsus/sistema-nacional-de-ouvidorias-do-sus/capacitacao/cursos-para-profissionais-de-ouvidoria)
+  - [Instituto Legislativo Brasileiro - Ouvidoria na ADM Pública](https://saberes.senado.leg.br/course/search.php?search=Ouvidoria+na+Administra%C3%A7%C3%A3o+P%C3%BAblica)
+  - [TCE/PR - Canais de relacionamento com a ADM Pública](https://egp.tce.pr.gov.br/Home/CursoDetalhe?idInscricao=1014): 8 vídeos de 2h aprox. 
