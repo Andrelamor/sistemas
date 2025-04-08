@@ -1,6 +1,7 @@
 ## MAPA DE LINKS ÚTEIS GERAIS
 - [Conjuntos de Dados Abertos do Ministério da Saúde](https://dados.gov.br/dados/organizacoes/visualizar/ministerio-da-saude)
-  - [CNES](https://opendatasus.saude.gov.br/dataset/cnes-cadastro-nacional-de-estabelecimentos-de-saude) 
+  - [CNES](https://opendatasus.saude.gov.br/dataset/cnes-cadastro-nacional-de-estabelecimentos-de-saude)
+  - [API CNES](https://apidadosabertos.saude.gov.br/v1/#/CNES/get_cnes_estabelecimentos)
 - [CONINTEC - Painel Tecnologias já analisadas](https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/tecnologias-demandadas) 
 - [Programa Estadual de Assistência Farmacêutica ](https://www.saude.mg.gov.br/obtermedicamentos/)
   - [Estoque de Medicamentos do Componente Especializado da Assistência Farmacêutica nas Farmácias das Unidades Regionais de Saúde](https://www.saude.mg.gov.br/wp-content/uploads/2025/03/Estoque-Medicamentos-CEAF_Unidades-Regionais-de-Saude_28-03-2025-1.pdf)
