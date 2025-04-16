@@ -1,9 +1,13 @@
 ## MAPA DE LINKS ÚTEIS GERAIS
+- [Conselho Federal de Medicina - CFM Busca Médicos](https://portal.cfm.org.br/busca-medicos)
+  - [CNES Profissionais](https://cnes.datasus.gov.br/pages/profissionais/consulta.jsp)
+  - [Mais médicos - busca por RMS](https://maismedicos.saude.gov.br/new/web/app.php/maismedicos/rms)
+- [CNES unidades saúde MG](https://raw.githubusercontent.com/Andrelamor/sistemas/refs/heads/main/CNES_GESTAO%20(1)(CNES%20E%20CNPJ).csv)
 - [Conjuntos de Dados Abertos do Ministério da Saúde](https://dados.gov.br/dados/organizacoes/visualizar/ministerio-da-saude)
   - [CNES](https://opendatasus.saude.gov.br/dataset/cnes-cadastro-nacional-de-estabelecimentos-de-saude)
   - [API CNES](https://apidadosabertos.saude.gov.br/v1/#/CNES/get_cnes_estabelecimentos)
-  - [CNES unidades saúde MG](https://raw.githubusercontent.com/Andrelamor/sistemas/refs/heads/main/CNES_GESTAO%20(1)(CNES%20E%20CNPJ).csv)
-- [CONINTEC - Painel Tecnologias já analisadas](https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/tecnologias-demandadas) 
+- [CONINTEC - Painel Tecnologias já analisadas](https://www.gov.br/conitec/pt-br/assuntos/avaliacao-de-tecnologias-em-saude/tecnologias-demandadas)
+- [IPSEMG]() 
 - [Programa Estadual de Assistência Farmacêutica ](https://www.saude.mg.gov.br/obtermedicamentos/)
   - [Estoque de Medicamentos do Componente Especializado da Assistência Farmacêutica nas Farmácias das Unidades Regionais de Saúde](https://www.saude.mg.gov.br/wp-content/uploads/2025/03/Estoque-Medicamentos-CEAF_Unidades-Regionais-de-Saude_28-03-2025-1.pdf)
   - [PDCEAF](https://app.powerbi.com/view?r=eyJrIjoiZjFjZDVkNGEtMjI1Yi00NTFmLTlhYzctNTcwMTE3YmM3Njg0IiwidCI6Ijg3ZTRkYTJiLTgyZGYtNDhmNi05MTU3LTY5YzNjYTYwMGRmMiIsImMiOjR9&pageName=ReportSectionf9f1fb7868427056a42d): Relação de Municípos participantes da Política de Descentralização do Componente Especializado da Assistência Farmacêutica
