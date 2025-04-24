@@ -18,6 +18,10 @@
 - Simplifique: solicitação de simplificação do atendimento prestado aos usuários dos órgãos ou entidades do Poder Executivo Federal. Assim, esta classificação é utilizada apenas pela Ouvidoria-Geral do SUS.
 - Disseminação: informação da base de conhecimento que foi disseminada no momento do atendimento.
 - Comunicação de irregularidade: é uma denúncia cadastrada sob anonimato.
+  - Indícios mínimos de
+    - Relevância
+    - Autoria
+    - Materialidade  
    
 - [Cursos para profissionais de Ouvidoria](https://www.gov.br/saude/pt-br/canais-de-atendimento/ouvsus/sistema-nacional-de-ouvidorias-do-sus/capacitacao/cursos-para-profissionais-de-ouvidoria)
   - [Instituto Legislativo Brasileiro - Ouvidoria na ADM Pública](https://saberes.senado.leg.br/course/search.php?search=Ouvidoria+na+Administra%C3%A7%C3%A3o+P%C3%BAblica)
