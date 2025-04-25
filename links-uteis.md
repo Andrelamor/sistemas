@@ -1,5 +1,12 @@
 # MAPA DE LINKS ÚTEIS GERAIS
 
+## Busca de informações gerais e legislações do SUS
+- [Deliberações CIB-SUS/MG](https://portal-antigo.saude.mg.gov.br/sobre/institucional/deliberacao-cib-susmg)
+- [LEGISUS - Sistema de Cadastro e Consulta de Legislações do SUS](https://snalegisusexterno.saude.gov.br/legisus-externo/visao/telainicial/telainiciallegislacaopesquisaavancadapage.html?1)
+- [Cojuntos de Dados Abertos SES/MG](https://dados.mg.gov.br/organization/secretaria-de-estado-de-saude-ses)
+- [Seção Transparência site SES/MG](https://www.saude.mg.gov.br/transparencia/)
+- [Subsecretaria de Regulação do Acesso - Sumário Consultivo](https://www.saude.mg.gov.br/sumarioconsultivo/)
+
 ## Estabelecimentos e profissionais de saúde
 - [Conselho Federal de Medicina - CFM Busca Médicos](https://portal.cfm.org.br/busca-medicos)
   - [CNES Profissionais](https://cnes.datasus.gov.br/pages/profissionais/consulta.jsp)
