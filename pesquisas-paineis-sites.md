@@ -17,4 +17,7 @@
   -  órgãos específicos 
 
 - [BI Ouvidoria SES Bahia](https://app.powerbi.com/view?r=eyJrIjoiOTE4Y2U4YzgtY2FlMC00NjI5LWFiMDAtYzE5MzJmOWU1MTg1IiwidCI6IjRjZDgzNWY0LTU0NDAtNDA4Zi05M2EzLTk3NWZjMTdjMzg0YSIsImMiOjR9)
-  - núemro de manifestações muit inferior ao de MG 
+  - núemro de manifestações muit inferior ao de MG
+    
+- [FAQ Ouvidoria SUS Paraná](https://www.saude.pr.gov.br/FAQ/Perguntas-mais-frequentes)
+  - perguntas mais frequentes (o FAQ da nossa SES é infinitamente mais completo) 
