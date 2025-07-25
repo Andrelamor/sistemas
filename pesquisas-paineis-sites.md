@@ -10,6 +10,11 @@
 
 ## Sites Ouvidoria
 
+- [OGE Ceará](https://cearatransparente.ce.gov.br/portal-da-transparencia/ouvidoria?locale=pt-BR)
+  - acesso rápido ao registro e consulta de manifestções
+  - BI resumido
+  - links para manuais, links, canais de atendimento e redes sociais
+
 - [São Paulo](https://ouvidoria.saude.sp.gov.br/principal.php/)
   - layout página inicial
   - FAQ
