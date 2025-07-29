@@ -30,4 +30,6 @@
   - núemro de manifestações muit inferior ao de MG
     
 - [FAQ Ouvidoria SUS Paraná](https://www.saude.pr.gov.br/FAQ/Perguntas-mais-frequentes)
-  - perguntas mais frequentes (o FAQ da nossa SES é infinitamente mais completo) 
+  - perguntas mais frequentes (o FAQ da nossa SES é infinitamente mais completo)
+
+- [Dados abertos PBH](https://dados.pbh.gov.br/dataset/dados-gerais-das-manifestacoes-processadas-pela-ouvidoria-de-belo-horizonte-no-sistema-bh-digital) 
